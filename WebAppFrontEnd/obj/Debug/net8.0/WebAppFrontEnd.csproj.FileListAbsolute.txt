@@ -28,3 +28,4 @@ C:\Users\Dildaar\source\repos\web_app_mvc_cs\WebAppFrontEnd\obj\Debug\net8.0\ref
 C:\Users\Dildaar\source\repos\web_app_mvc_cs\WebAppFrontEnd\obj\Debug\net8.0\WebAppFrontEnd.pdb
 C:\Users\Dildaar\source\repos\web_app_mvc_cs\WebAppFrontEnd\obj\Debug\net8.0\WebAppFrontEnd.genruntimeconfig.cache
 C:\Users\Dildaar\source\repos\web_app_mvc_cs\WebAppFrontEnd\obj\Debug\net8.0\ref\WebAppFrontEnd.dll
+C:\Users\Dildaar\source\repos\web_app_mvc_cs\WebAppFrontEnd\obj\Debug\net8.0\WebAppFrontEnd.sourcelink.json
